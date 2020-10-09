@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ridhikapila27](https://github.com/ridhikapila27)
+- Place: Punjab, India
+- Bio: Computer Engineer
+- Github: [Ridhi Kapila](https://github.com/ridhikapila27)
